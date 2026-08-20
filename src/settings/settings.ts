@@ -29,7 +29,7 @@ Object.assign(globalThis, {
 
 export function init(request: Request, env: Env) {
     if(env.UUID || env.TR_PASS || typeof EMBEDED_SETTINGS === 'undefined') {
-        throw new Error(`BPB Panel v5 can only be installed using <a href="${_wizard_repo_}/secrets" target="_blank">BPB Wizard v3</a> or later.`);
+        throw new Error(`DogHub v5 can only be installed using <a href="${_wizard_repo_}/secrets" target="_blank">BPB Wizard v3</a> or later.`);
     }
     
     const { pathname, origin, searchParams, hostname } = new URL(request.url);
