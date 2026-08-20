@@ -42,6 +42,7 @@
 
 ## شروع به کار
 
+- [آموزش نصب](INSTALL_fa.md)
 - [روش‌های راه‌اندازی](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa/wizard/)
 - [راهنمای تنظیمات](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa/configuration/)
 - [نحوه‌ی استفاده](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa/usage/)
